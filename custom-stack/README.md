@@ -7,5 +7,5 @@ pip install -r requirements.txt
 
 # Test Execution
 ```sh
-python -m pytest ./test/* --cov
+python -m pytest
 ```
